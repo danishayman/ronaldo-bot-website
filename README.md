@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ronaldo Bot Website
 
-## Getting Started
+This is the official website for Ronaldo Bot - a Discord water reminder bot inspired by Cristiano Ronaldo.
 
-First, run the development server:
+## Features
 
+- Modern, responsive design with Tailwind CSS
+- Complete privacy policy and terms of service pages
+- Hero section with bot invitation link
+- Feature showcase and command documentation
+- Mobile-friendly navigation
+- Gradient backgrounds and smooth animations
+
+## Pages
+
+- `/` - Main landing page with features and bot invite
+- `/privacy` - Comprehensive privacy policy
+- `/terms` - Terms of service
+
+## Setup
+
+1. Install dependencies:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Update the Discord bot invite URL in the page.tsx file:
+Replace `YOUR_CLIENT_ID` with your actual Discord application client ID.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Deployment
 
-## Learn More
+This website is ready to deploy on Vercel, Netlify, or any other Next.js hosting platform.
 
-To learn more about Next.js, take a look at the following resources:
+## Bot Information
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The Ronaldo Bot featured on this website helps Discord users stay hydrated during voice chat sessions with:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Customizable reminder intervals (30-180 minutes)
+- Voice channel integration and monitoring
+- Multi-user session management
+- Ronaldo-themed motivational content
+- Privacy-focused design with no persistent data storage
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For more information about the bot itself, see the RONALDO-BOT-README.md file.
