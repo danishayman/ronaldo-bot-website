@@ -21,9 +21,17 @@ export default function Footer() {
           </a>
         </div>
         <div className="mt-8 md:mt-0 md:order-1">
-          <p className="text-center text-base text-gray-400">
-            &copy; 2025 Ronaldo Bot. Made with ❤️ and lots of 💧
-          </p>
+            <p className="text-center text-base text-gray-400">
+            &copy; 2025 Ronaldo Bot. Made with ❤️ and lots of 💧 by{" "}
+            <a
+              href="https://danishaiman.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:text-blue-600 underline transition-colors"
+            >
+              danishayman
+            </a>
+            </p>
           <p className="text-center text-sm text-gray-500 mt-2">
             SIUUUU! 🐐⚽ Remember: Champions stay hydrated! 🏆💧
           </p>

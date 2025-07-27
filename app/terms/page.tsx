@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Footer from "../../components/Footer";
 
 export default function Terms() {
   return (
@@ -434,6 +435,9 @@ export default function Terms() {
           </div>
         </div>
       </div>
+      
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }

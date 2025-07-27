@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import MobileMenu from "../components/MobileMenu";
+import Footer from "../components/Footer";
 
 export default function Home() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -362,36 +363,7 @@ export default function Home() {
       </div>
 
       {/* Footer */}
-      <footer style={{ backgroundColor: 'var(--discord-bg-tertiary)' }}>
-        <div className="max-w-7xl mx-auto py-8 sm:py-12 px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row md:items-center md:justify-between">
-            <div className="flex flex-col sm:flex-row justify-center space-y-2 sm:space-y-0 sm:space-x-6 md:order-2">
-              <Link 
-                href="/privacy" 
-                className="text-center hover:underline transition-colors"
-                style={{ color: 'var(--discord-text-secondary)' }}
-              >
-                Privacy Policy
-              </Link>
-              <Link 
-                href="/terms" 
-                className="text-center hover:underline transition-colors"
-                style={{ color: 'var(--discord-text-secondary)' }}
-              >
-                Terms of Service
-              </Link>
-            </div>
-            <div className="md:order-1">
-              <p className="text-center text-sm sm:text-base" style={{ color: 'var(--discord-text-secondary)' }}>
-                &copy; 2025 Ronaldo Bot. Made with ❤️ and lots of 💧
-              </p>
-              <p className="text-center text-xs sm:text-sm mt-2" style={{ color: 'var(--discord-text-muted)' }}>
-                SIUUUU! 🐐⚽ Remember: Champions stay hydrated! 🏆💧
-              </p>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }
