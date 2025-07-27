@@ -190,7 +190,7 @@ export default function Privacy() {
                 6.2 Data Requests
               </h3>
               <p className="mb-4">
-                Since we don't store persistent data, there is no personal data to request, download, or delete. All data is automatically cleared as described above.
+                Since we don&apos;t store persistent data, there is no personal data to request, download, or delete. All data is automatically cleared as described above.
               </p>
             </section>
 
@@ -201,17 +201,17 @@ export default function Privacy() {
               <ul className="list-disc list-inside mb-4 space-y-2">
                 <li><strong>Memory-Only Storage:</strong> No persistent files or databases that could be compromised</li>
                 <li><strong>Minimal Permissions:</strong> Bot requests only essential Discord permissions</li>
-                <li><strong>No External Connections:</strong> Bot doesn't connect to external services or APIs</li>
+                <li><strong>No External Connections:</strong> Bot doesn&apos;t connect to external services or APIs</li>
                 <li><strong>Regular Updates:</strong> Bot code is regularly updated for security best practices</li>
               </ul>
             </section>
 
             <section>
               <h2 className="text-2xl font-semibold mb-4" style={{ color: 'var(--discord-text-primary)' }}>
-                8. Children's Privacy (COPPA)
+                8. Children&apos;s Privacy (COPPA)
               </h2>
               <p className="mb-4">
-                Ronaldo Bot is designed to be safe for users of all ages. Since we don't collect personal information and all data is temporary, we comply with COPPA requirements. However, Discord's own Terms of Service require users to be 13+ years old.
+                Ronaldo Bot is designed to be safe for users of all ages. Since we don&apos;t collect personal information and all data is temporary, we comply with COPPA requirements. However, Discord&apos;s own Terms of Service require users to be 13+ years old.
               </p>
             </section>
 
@@ -220,7 +220,7 @@ export default function Privacy() {
                 9. International Users
               </h2>
               <p className="mb-4">
-                Ronaldo Bot can be used internationally. Since we don't store persistent data, there are no cross-border data transfer concerns. All temporary data processing occurs in Discord's infrastructure according to their own privacy policies.
+                Ronaldo Bot can be used internationally. Since we don&apos;t store persistent data, there are no cross-border data transfer concerns. All temporary data processing occurs in Discord&apos;s infrastructure according to their own privacy policies.
               </p>
             </section>
 
@@ -232,7 +232,7 @@ export default function Privacy() {
                 We may update this Privacy Policy from time to time. When we do:
               </p>
               <ul className="list-disc list-inside mb-4 space-y-2">
-                <li>We will update the "Last Updated" date at the top of this policy</li>
+                <li>We will update the &quot;Last Updated&quot; date at the top of this policy</li>
                 <li>Significant changes will be announced in our support server (if applicable)</li>
                 <li>Continued use of the bot constitutes acceptance of the updated policy</li>
               </ul>
@@ -243,11 +243,11 @@ export default function Privacy() {
                 11. Contact Information
               </h2>
               <p className="mb-4">
-                If you have questions about this Privacy Policy or Ronaldo Bot's data practices, you can contact us through:
+                If you have questions about this Privacy Policy or Ronaldo Bot&apos;s data practices, you can contact us through:
               </p>
               <ul className="list-disc list-inside mb-4 space-y-2">
                 <li><strong>GitHub:</strong> Open an issue on our GitHub repository</li>
-                <li><strong>Discord:</strong> Join our support server (link in bot's status)</li>
+                <li><strong>Discord:</strong> Join our support server (link in bot&apos;s status)</li>
                 <li><strong>Bot Commands:</strong> All data management can be done through bot commands</li>
               </ul>
             </section>

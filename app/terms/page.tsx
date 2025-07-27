@@ -70,7 +70,7 @@ export default function Terms() {
                 1. Acceptance of Terms
               </h2>
               <p className="mb-4">
-                By inviting, using, or interacting with Ronaldo Bot (the "Bot") in any Discord server, you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these terms, you may not use the Bot.
+                By inviting, using, or interacting with Ronaldo Bot (the &quot;Bot&quot;) in any Discord server, you agree to be bound by these Terms of Service (&quot;Terms&quot;). If you disagree with any part of these terms, you may not use the Bot.
               </p>
               <p>
                 These Terms apply to all users of the Bot, including server administrators, moderators, and regular members.
@@ -91,7 +91,7 @@ export default function Terms() {
                 <li>Motivational content inspired by Cristiano Ronaldo</li>
               </ul>
               <p>
-                The Bot operates through Discord's slash command system and provides health-focused reminders to encourage proper hydration.
+                The Bot operates through Discord&apos;s slash command system and provides health-focused reminders to encourage proper hydration.
               </p>
             </section>
 
@@ -117,11 +117,11 @@ export default function Terms() {
               <p className="mb-4">You may NOT use the Bot for:</p>
               <ul className="list-disc list-inside mb-4 space-y-2">
                 <li>Spamming or flooding channels with excessive commands</li>
-                <li>Attempting to exploit or hack the Bot's functionality</li>
-                <li>Using the Bot in violation of Discord's Terms of Service</li>
+                <li>Attempting to exploit or hack the Bot&apos;s functionality</li>
+                <li>Using the Bot in violation of Discord&apos;s Terms of Service</li>
                 <li>Commercial purposes without explicit permission</li>
                 <li>Harassment, abuse, or inappropriate behavior towards other users</li>
-                <li>Attempting to reverse engineer or copy the Bot's code</li>
+                <li>Attempting to reverse engineer or copy the Bot&apos;s code</li>
               </ul>
             </section>
 
@@ -138,7 +138,7 @@ export default function Terms() {
                 <li>Ensuring the Bot is used appropriately in their server</li>
                 <li>Managing permissions and access to Bot commands</li>
                 <li>Addressing any misuse by server members</li>
-                <li>Complying with Discord's Terms of Service and Community Guidelines</li>
+                <li>Complying with Discord&apos;s Terms of Service and Community Guidelines</li>
               </ul>
 
               <h3 className="text-xl font-semibold mb-3" style={{ color: 'var(--discord-brand)' }}>
@@ -147,8 +147,8 @@ export default function Terms() {
               <p className="mb-4">All users are responsible for:</p>
               <ul className="list-disc list-inside mb-4 space-y-2">
                 <li>Using Bot commands respectfully and appropriately</li>
-                <li>Not interfering with other users' hydration sessions</li>
-                <li>Following server rules and Discord's Community Guidelines</li>
+                <li>Not interfering with other users&apos; hydration sessions</li>
+                <li>Following server rules and Discord&apos;s Community Guidelines</li>
                 <li>Reporting any Bot issues or abuse to server administrators</li>
               </ul>
             </section>
@@ -172,11 +172,11 @@ export default function Terms() {
                   <li>The Bot is NOT a medical device or health monitoring system</li>
                   <li>Hydration reminders are not personalized medical advice</li>
                   <li>Consult healthcare professionals for specific hydration needs</li>
-                  <li>Users with medical conditions should follow their doctor's guidance</li>
+                  <li>Users with medical conditions should follow their doctor&apos;s guidance</li>
                 </ul>
               </div>
               <p>
-                <strong>The Bot's developers are not responsible for any health-related consequences of following or not following the hydration reminders.</strong>
+                <strong>The Bot&apos;s developers are not responsible for any health-related consequences of following or not following the hydration reminders.</strong>
               </p>
             </section>
 
@@ -269,7 +269,7 @@ export default function Terms() {
                 </p>
                 <div className="space-y-2" style={{ color: 'var(--discord-text-secondary)' }}>
                   <p>
-                    <strong>TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE BOT IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND.</strong>
+                    <strong>TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE BOT IS PROVIDED &quot;AS IS&quot; WITHOUT WARRANTIES OF ANY KIND.</strong>
                   </p>
                   <p>
                     We shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of the Bot.
@@ -301,7 +301,7 @@ export default function Terms() {
               <p className="mb-4">You may stop using the Bot at any time by:</p>
               <ul className="list-disc list-inside mb-4 space-y-2">
                 <li>Leaving active hydration sessions</li>
-                <li>Removing the Bot from your Discord server (if you're an admin)</li>
+                <li>Removing the Bot from your Discord server (if you&apos;re an admin)</li>
                 <li>Not using Bot commands</li>
               </ul>
 
@@ -312,7 +312,7 @@ export default function Terms() {
               <ul className="list-disc list-inside mb-4 space-y-2">
                 <li>Violation of these Terms of Service</li>
                 <li>Abuse or misuse of Bot functionality</li>
-                <li>Violation of Discord's Terms of Service</li>
+                <li>Violation of Discord&apos;s Terms of Service</li>
                 <li>Technical or security reasons</li>
               </ul>
             </section>
@@ -331,7 +331,7 @@ export default function Terms() {
                     className="hover:underline" 
                     style={{ color: 'var(--discord-brand)' }}
                   >
-                    Discord's Terms of Service
+                    Discord&apos;s Terms of Service
                   </a>
                 </li>
                 <li>
@@ -340,13 +340,13 @@ export default function Terms() {
                     className="hover:underline" 
                     style={{ color: 'var(--discord-brand)' }}
                   >
-                    Discord's Community Guidelines
+                    Discord&apos;s Community Guidelines
                   </a>
                 </li>
-                <li>Your Discord server's specific rules and guidelines</li>
+                <li>Your Discord server&apos;s specific rules and guidelines</li>
               </ul>
               <p>
-                Violations of Discord's terms may result in Bot restrictions or removal from your server.
+                Violations of Discord&apos;s terms may result in Bot restrictions or removal from your server.
               </p>
             </section>
 
@@ -358,7 +358,7 @@ export default function Terms() {
                 We may modify these Terms of Service at any time. When we do:
               </p>
               <ul className="list-disc list-inside mb-4 space-y-2">
-                <li>We will update the "Last Updated" date</li>
+                <li>We will update the &quot;Last Updated&quot; date</li>
                 <li>Significant changes will be announced through appropriate channels</li>
                 <li>Continued use of the Bot constitutes acceptance of the updated terms</li>
                 <li>If you disagree with changes, you should stop using the Bot</li>
@@ -407,10 +407,10 @@ export default function Terms() {
                 </p>
                 <ul className="list-disc list-inside space-y-1" style={{ color: 'var(--discord-text-secondary)' }}>
                   <li>Use the Bot responsibly for hydration reminders</li>
-                  <li>Follow Discord's rules and server guidelines</li>
+                  <li>Follow Discord&apos;s rules and server guidelines</li>
                   <li>The Bot is for wellness, not medical advice</li>
                   <li>We respect your privacy and data</li>
-                  <li>Service provided "as is" without guarantees</li>
+                  <li>Service provided &quot;as is&quot; without guarantees</li>
                   <li>Be kind and help create a positive community</li>
                 </ul>
               </div>
