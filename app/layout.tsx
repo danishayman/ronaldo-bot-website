@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   title: "Ronaldo Bot - Discord Water Reminder Bot",
   description: "SIUUUU! Stay hydrated like a champion with Ronaldo Bot - the ultimate Discord water reminder bot inspired by Cristiano Ronaldo. Perfect for gaming sessions, study groups, and voice chats!",
   keywords: "Discord bot, water reminder, Ronaldo, hydration, gaming, voice chat, health, productivity",
+  viewport: "width=device-width, initial-scale=1",
   openGraph: {
     title: "Ronaldo Bot - Discord Water Reminder Bot",
     description: "Stay hydrated like a champion with Ronaldo-themed water reminders!",
