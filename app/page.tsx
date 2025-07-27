@@ -78,7 +78,7 @@ export default function Home() {
               
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center mb-8 sm:mb-12 px-4">
                 <a
-                  href="https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=2048&scope=bot%20applications.commands"
+                  href="https://discord.com/oauth2/authorize?client_id=1397772507804864572&permissions=2148616256&integration_type=0&scope=bot"
                   className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-semibold rounded-lg transition-all transform hover:scale-105 flex items-center justify-center gap-2"
                   style={{ 
                     backgroundColor: 'var(--discord-brand)', 
@@ -353,7 +353,7 @@ export default function Home() {
             Join thousands of Discord servers already using Ronaldo Bot to stay hydrated like champions.
           </p>
           <a
-            href="https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=2048&scope=bot%20applications.commands"
+            href="https://discord.com/oauth2/authorize?client_id=1397772507804864572&permissions=2148616256&integration_type=0&scope=bot"
             className="inline-flex items-center px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-semibold rounded-lg bg-white text-blue-600 hover:bg-gray-100 transition-all transform hover:scale-105"
           >
             ⚽ Invite to Discord
