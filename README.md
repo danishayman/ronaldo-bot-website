@@ -189,14 +189,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ⚛️ **Next.js team** for the incredible framework
 - 🎨 **Tailwind CSS** for the utility-first styling
 
-## 📞 Support
-
-Having issues? Need help? 
-
-- 🐛 **Report bugs**: [GitHub Issues](https://github.com/yourusername/ronaldo-bot-website/issues)
-- 💬 **Join our Discord**: [Coming Soon!]
-- 📧 **Email**: [your-email@example.com]
-
 ---
 
 <div align="center">
