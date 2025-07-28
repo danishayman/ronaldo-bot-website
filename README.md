@@ -127,10 +127,13 @@ The website uses CSS custom properties for Discord-themed colors in `app/globals
 ```
 
 ### 🔗 Bot Invite URL
+**Invite Ronaldo Bot to your Discord server:** 
+🤖 [**Add Ronaldo Bot to Discord**](https://discord.com/oauth2/authorize?client_id=1397772507804864572)
+
 Update the Discord bot invite URL in `app/page.tsx`:
 ```typescript
 // Replace with your actual Discord application client ID
-href="https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=2148616256&integration_type=0&scope=bot"
+href="https://discord.com/oauth2/authorize?client_id=1397772507804864572&permissions=2148616256&integration_type=0&scope=bot"
 ```
 
 ## 🚀 Deployment
